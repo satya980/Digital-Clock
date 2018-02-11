@@ -1,2 +1,2 @@
 # Digital-Clock
-Room automation project
+Using Arduino IDE
